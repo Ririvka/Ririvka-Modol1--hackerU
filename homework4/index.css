@@ -1,0 +1,8 @@
+body {
+  background-color: rgb(249, 219, 223);
+  text-align: center;
+  background-image: url(https://picsum.photos/seed/picsum/200/300);
+  opacity: 0.9;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
