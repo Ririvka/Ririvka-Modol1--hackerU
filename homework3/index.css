@@ -1,0 +1,26 @@
+h3 {
+  text-align: center;
+  color: mediumpurple;
+}
+.container-cards {
+  margin: 30px;
+  display: inline-flex;
+  width: 300px;
+}
+.header {
+  height: 80px;
+  background-image: url(https://picsum.photos/seed/picsum/200/300);
+  opacity: 0.9;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+body {
+  background-color: dimgray;
+  text-align: center;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+a {
+  text-align: center;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  color: rgb(138, 84, 179);
+}
