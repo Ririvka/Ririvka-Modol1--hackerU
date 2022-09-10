@@ -33,5 +33,5 @@ function miniCalculator() {
     finalnamber = firstnam / secondnam;
   }
   alert(finalnamber);
-  // let(`solution`).innerText = finalnamber;
 }
+// let(`solution`).innerText = finalnamber;
